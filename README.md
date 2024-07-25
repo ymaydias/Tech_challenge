@@ -1,6 +1,5 @@
 # Ibovespa
 
-### O que é o Ibovespa?
 
 O Índice Bovespa, mais conhecido como Ibovespa, é um indicador crucial no mercado de ações brasileiro. Ele reflete o desempenho das principais empresas negociadas na B3, a Bolsa de Valores oficial do Brasil, considerando aquelas com maior liquidez e volume de transações. Quando o Ibovespa é mencionado nas notícias financeiras, indica se houve uma valorização ou desvalorização média dessas ações, refletindo o sentimento geral dos investidores em relação ao mercado.
 
